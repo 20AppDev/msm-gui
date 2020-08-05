@@ -1,6 +1,4 @@
-# Refactoring MSM Queries with Methods
-
-[This Chapter contains detailed notes](https://chapters.firstdraft.com/chapters/843) for this project.
+# MSM GUI
 
 ## Setup
 
